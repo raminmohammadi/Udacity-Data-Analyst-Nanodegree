@@ -7,13 +7,13 @@ This repository contains project work for Udacity's [Data Analyst Nanodegree](ht
 
 ### Projects:
 
-- **Project 0** - Analyze Chopstick Length
-- **Project 1** - Perceptual Phenomenon Testing
+- **Project 0** - Analyze bay Area Bike Share Data
+- **Project 1** - investigate a USA baseball Players dataset
 - **Project 2** - Analyzing the NYC Subway Dataset
 - **Project 3** - Data Wrangle OpenStreetMaps Data
 - **Project 4** - Explore and Summarize Data for P2P Lending Prosper Loan
 - **Project 5** - Identifying Fraud from Enron Email & Financial Dataset
-- **Project 6** - Make Effective Data Visualization for Titanic Dataset
+- **Project 6** - Make Effective Data Visualization for P2P Lending Prosper Loan 
 
 
 ### Courses:
