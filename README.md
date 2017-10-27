@@ -1,6 +1,6 @@
 
 
-![Certificate](http://raw.githubusercontent.com/raminmohammaadi/Udacity-Data-Analyst-Nanodegree/master/nd002.png)
+![Certificate](http://raw.githubusercontent.com/raminmohammadi/Udacity-Data-Analyst-Nanodegree/master/nd002.png)
 
 ### About
 This repository contains project work for Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/nd002).
